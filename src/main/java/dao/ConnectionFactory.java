@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConnectionFactory {
-	private final static String nameBD = "leviathandb";
+	private final static String nameBD = "pokedex";
     private final static String usuarioBD = "root";
     private final static String senhaBD = "root";
 
