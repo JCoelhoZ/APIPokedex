@@ -42,7 +42,5 @@ public class PokemonService {
 	public void deleteById(long id) {
 		repository.deleteById(id);
 	}
-	
-	
 }
 
